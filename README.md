@@ -1,1 +1,3 @@
 # Pentagentx
+
+Linux AMD64
